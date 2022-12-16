@@ -2,36 +2,40 @@
     // projects can be added an removed
     // if there are no projects, Projects section won't show up
     {
-      name: 'Project 1',
+      name: 'Webdev Gallery and Fruit API',
       description:
-        'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-      stack: ['SASS', 'TypeScript', 'React'],
+        "Learning the basics of the front-end programming, responsiveness, and map/filter functions",
+      stack: ['JavaScript', 'HTML/CSS', 'API/Asynchronous'],
       sourceCode: 'https://github.com',
       livePreview: 'https://github.com',
+      route: '/webdev',
     },
     {
-      name: 'Project 2',
+      name: 'Bakery V1',
       description:
-        'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-      stack: ['SASS', 'TypeScript', 'React'],
+        'Learning React - the use of states',
+      stack: ['React', 'HTML/CSS'],
       sourceCode: 'https://github.com',
       livePreview: 'https://github.com',
+      route: '/bakeryv1',
     },
     {
-      name: 'Project 3',
+      name: 'Bakery V2',
       description:
-        'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-      stack: ['SASS', 'TypeScript', 'React'],
+        'React - further polishing react skills with UI/UX concepts in mind',
+      stack: ['React', 'HTML/CSS'],
       sourceCode: 'https://github.com',
       livePreview: 'https://github.com',
+      route: '/bakeryv2',
     },
     {
-        name: 'Project 4',
+        name: 'Flutter - Predict Age',
         description:
-          'Amet asperiores et impedit aliquam consectetur? Voluptates sed a nulla ipsa officia et esse aliquam',
-        stack: ['SASS', 'TypeScript', 'React'],
+          'Learning development of mobile applications with Flutter, and how to involve asynchronous calls',
+        stack: ['Flutter', 'API/asynchronous'],
         sourceCode: 'https://github.com',
         livePreview: 'https://github.com',
+        route: '/flutter',
       },
   ]
   
